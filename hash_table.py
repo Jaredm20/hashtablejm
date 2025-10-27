@@ -104,11 +104,11 @@ if __name__ == "__main__":
     print("\n collisions and duplicates")
     table.insert("Ethan", "417-233-9044")
     table.insert("Nathan", "618-202-5541")
-    table.insert("Sophia", "999-555-9999")
+    table.insert("Lauren", "999-555-9999")
     table.print_table()
 
     print("\nSearch for non existent contact")
-    print(table.search("Ava"))
+    print(table.search("Ali"))
 
 
 '''
